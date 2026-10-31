@@ -1,16 +1,17 @@
-## Hi there 👋
+¡Hola! 🙋‍♂️ Mi nombre es **Henry Alexander**. Tengo 17 años 🎂 y actualmente estoy estudiando la carrera de **Desarrollo de Software** 💻.
 
-<!--
-**20094654-ship-it/20094654-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me encantaría convertirme en un excelente programador 👨‍💻 para crear aplicaciones innovadoras, resolver problemas complejos mediante el código y desarrollar herramientas que faciliten la vida de las personas 🌐.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Mis Metas a Futuro
+* 📚 Dominar múltiples lenguajes de programación y frameworks modernos.
+* 🛠️ Crear mis propios proyectos de software de alto impacto.
+* 🚀 Graduarme con éxito y trabajar en el área de desarrollo tecnológico.
+
+---
+
+### 🎨 Sobre Mí & Pasatiempos
+* ⚽ **Fútbol:** Me encanta jugar y disfrutar del deporte.
+* 🎵 **Música:** Escucho música para concentrarme y relajarme.
+* 🎬 **Películas:** Disfruto ver buenas películas en mi tiempo libre.
